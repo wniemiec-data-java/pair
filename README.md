@@ -9,6 +9,7 @@
 	<a href="https://codecov.io/gh/wniemiec-util-data/pair"><img src="https://codecov.io/gh/wniemiec-util-data/pair/branch/master/graph/badge.svg?token=R2SFS4SP86" alt="Coverage status"></a>
 	<a href="http://java.oracle.com"><img src="https://img.shields.io/badge/java-11+-D0008F.svg" alt="Java compatibility"></a>
 	<a href="https://github.com/wniemiec-util-data/pair/releases"><img src="https://img.shields.io/github/v/release/wniemiec-util-data/pair" alt="Release"></a>
+	<a href="https://mvnrepository.com/artifact/io.github.wniemiec-util-data/pair"><img src="https://img.shields.io/maven-central/v/io.github.wniemiec-util-data/pair" alt="Maven Central release"></a>
 	<a href="https://github.com/wniemiec-util-data/pair/blob/master/LICENSE"><img src="https://img.shields.io/github/license/wniemiec-util-data/pair" alt="License"></a>
 </p>
 <hr />
@@ -17,12 +18,24 @@
 Represents pairs of two elements. This implementation was based on std::pair (from C++). You can see more [here](https://www.geeksforgeeks.org/pair-in-cpp-stl/).
 
 ## ❓ How to use
-1. Add this to pom.xml:
+
+1. Add one of the options below to the pom.xml file: 
+
+#### Using Maven Central (recomended):
+```
+<dependency>
+  <groupId>io.github.wniemiec-util-data</groupId>
+  <artifactId>pair</artifactId>
+  <version>LATEST</version>
+</dependency>
+```
+
+#### Using GitHub Packages:
 ```
 <dependency>
   <groupId>wniemiec.util.data</groupId>
   <artifactId>pair</artifactId>
-  <version>1.0.0</version>
+  <version>LATEST</version>
 </dependency>
 ```
 
