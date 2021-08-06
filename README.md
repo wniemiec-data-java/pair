@@ -1,7 +1,7 @@
 ![](https://github.com/wniemiec-util-data/pair/blob/master/docs/img/logo/logo.jpg)
 
 <h1 align='center'>Pair</h1>
-<p align='center'>Text pair.</p>
+<p align='center'>Represents pairs of two elements.</p>
 <p align="center">
 	<a href="https://github.com/wniemiec-util-data/pair/actions/workflows/windows.yml"><img src="https://github.com/wniemiec-util-data/pair/actions/workflows/windows.yml/badge.svg" alt=""></a>
 	<a href="https://github.com/wniemiec-util-data/pair/actions/workflows/macos.yml"><img src="https://github.com/wniemiec-util-data/pair/actions/workflows/macos.yml/badge.svg" alt=""></a>
