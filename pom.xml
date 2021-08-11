@@ -4,13 +4,13 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>wniemiec.util.data</groupId>
+  <groupId>wniemiec.data.java</groupId>
   <artifactId>pair</artifactId>
   <version>1.0.0</version>
 
   <name>Pair</name>
   <description>Represents pairs of two elements.</description>
-  <url>https://github.com/wniemiec-util-data/pair</url>
+  <url>https://github.com/wniemiec-data-java/pair</url>
 
   <properties>
     <version.major>1</version.major>
@@ -34,16 +34,16 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git@github.com:wniemiec-util-data/pair.git</connection>
-    <developerConnection>scm:git:ssh://github.com:wniemiec-util-data/pair.git</developerConnection>
-    <url>https://github.com/wniemiec-util-data/pair/tree/main</url>
+    <connection>scm:git:git@github.com:wniemiec-data-java/pair.git</connection>
+    <developerConnection>scm:git:ssh://github.com:wniemiec-data-java/pair.git</developerConnection>
+    <url>https://github.com/wniemiec-data-java/pair/tree/main</url>
   </scm>
   
   <distributionManagement>
     <repository>
-      <id>github-wniemiec-util-data-pair</id>
-      <name>GitHub wniemiec-util-data Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/wniemiec-util-data/pair</url>
+      <id>github-wniemiec-data-java-pair</id>
+      <name>GitHub wniemiec-data-java Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/wniemiec-data-java/pair</url>
     </repository>
   </distributionManagement>
 
